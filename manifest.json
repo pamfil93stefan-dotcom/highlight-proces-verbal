@@ -1,0 +1,17 @@
+{
+  "name": "Reportero - Proces Verbal",
+  "short_name": "Reportero",
+  "description": "Generare procese verbale cu documentație foto obligatorie.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1066/1066371.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

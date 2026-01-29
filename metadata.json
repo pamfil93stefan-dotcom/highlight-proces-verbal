@@ -1,0 +1,7 @@
+{
+  "name": "Highlight - Proces Verbal ",
+  "description": "A professional application for generating official reports (procese verbale) with structured item details and mandatory four-angle photographic documentation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
